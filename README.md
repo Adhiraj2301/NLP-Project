@@ -1,21 +1,25 @@
 # NLP-Project
 Messaging Application with Next Word Prediction, Word Completion, Spelling Correction and Automatic Priority Assignment 
 
-Next Word Prediction
+Next Word Prediction:
+
 Next Word Prediction or what is also called Language Modeling is the task of predicting what word comes next. 
 It is one of the fundamental tasks of NLP and has many applications.
 The app provides suggestions for words in the sentence using an N-gram Language Model to make the typing process more fast and easy.
 
-Word Completion
+Word Completion:
+
 Autocomplete, or word completion, is a feature in which an application predicts the rest of a word a user is typing.
 The app provides this feature by implementing DFS traversal on a trie data stucture.
 
-Spelling Check
+Spelling Check:
+
 A spell checker is a software feature that checks for misspellings in a text. 
 Spell-checking features are often embedded in software or services, such as a word processor, email client, electronic dictionary, or search engine.
 The app identifies misspelt words and offers alternatives using the trie data structure.
 
-Priority Emails
+Priority Emails:
+
 Emails flow into the inbox and remain for eternity until we delete them or go out of storage. 
 It is a toilsome work to find significant mails among these piled up emails. 
 This complication is now resolved using the "word prediction and prioritization" which prioritizes the incoming mails based on the average priority of all the words present in an email.
